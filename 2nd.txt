@@ -1,0 +1,2 @@
+Tässä on vaikka jotain kokeiluja uusista moduuleista tms,
+ joita halutaan ensin testata omassa branchissään.
