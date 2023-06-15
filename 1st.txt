@@ -1,0 +1,2 @@
+Nämä ovat ensimmäiset lisäykset, jotka työnnän suoraan 
+mainiin. (add,commit,push)
